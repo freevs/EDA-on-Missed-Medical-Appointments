@@ -31,10 +31,10 @@ The goal of this project is to analyze over 110k  medical appointments from the 
 * A small group of patients accounted for multiple missed appointments.
 
 ## Recommendations
-* Reduce Waiting Times: Shorten the gap between scheduling and appointment date to decrease the likelihood of no-shows, especially for non-urgent visits.
-* Targeted SMS Reminders: Prioritize sending reminders to patients with longer waiting times, those in high-risk neighborhoods, and those with a history of missed appointments.
-* Neighborhood-Focused Interventions: Investigate and address barriers in neighborhoods with the highest no-show rates—this could include transportation support, flexible scheduling, or local outreach.
-* Prioritize High-Risk Groups: Identify and monitor patients who have missed multiple appointments, and consider additional follow-up or support for these individuals.
-* Monitor and Reassess: Continuously track no-show patterns and the effectiveness of interventions using dashboards and regular data reviews.
+* Shorten the gap between scheduling and appointment date to decrease the likelihood of no-shows, especially for non-urgent visits.
+* Prioritize sending reminders to patients with longer waiting times, those in high-risk neighborhoods, and those with a history of missed appointments.
+* Investigate and address barriers in neighborhoods with the highest no-show rates—this could include transportation support, flexible scheduling, or local outreach.
+* Identify and monitor patients who have missed multiple appointments, and consider additional follow-up or support for these individuals.
+* Continuously track no-show patterns and the effectiveness of interventions using dashboards and regular data reviews.
 
 
